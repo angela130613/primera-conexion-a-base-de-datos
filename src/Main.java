@@ -8,7 +8,7 @@ public class Main {
             myConn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/reto",
                     "root",
-                    "anaalejo1028"
+                    "angela130906"
             );
             System.out.println("Genial, nos conectamos....");
 
